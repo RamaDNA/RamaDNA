@@ -2,8 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Scientist+%7C+Data+Analyst+%7C+Machine+Learning+Enthusiast&center=true&width=700&height=45" />
 
-My name is Rama Dona Ariyatma I'm a Data Scientist and Data Analyst passionate about machine learning, data visualization, and predictive analytics.  
-I love turning raw data into meaningful insights using statistical analysis and machine learning models.
+My name is Rama Dona Ariyatma I'm a Data Scientist and Data Analyst passionate about machine learning, data visualization, and predictive analytics.I love turning raw data into meaningful insights using statistical analysis and machine learning models. And also I keep learning about data and model like LLM
 
 ---
 
@@ -11,13 +10,18 @@ I love turning raw data into meaningful insights using statistical analysis and 
 
 - 📊 Data Analysis: Python, SQL
 - 📈 Data Visualization: Matplotlib, Seaborn, Plotly, Tableau  
-- 🤖 Machine Learning: Scikit-learn, XGBoost, TensorFlow  
+- 🤖 Large Language Models (LLMs): GPT, BERT, IndoBERT ,DeepSeek
+- 🤖 Framework : Torch, TensorFlow , LangChain
 - 🧹 Data Cleaning & Preprocessing  
-- 📦 Deployment: Streamlit, Flask, Google Colab  
+- 📦 Deployment: Streamlit, Flask, Google Colab
+- 🧾 Text Classification, Clustering & Sentiment Analysis 
 
 ---
 
 ## 📌 Highlight Projects
+
+- 📉 **ChatBot RamaDNA**  
+  Using LLM DeepSeek for detection my personal information about chatbot and also can answer like deepseek dynamic.
 
 - 🛍️ **E-commerce Sales Forecasting**  
   Regression models to predict monthly revenue based on customer behavior and seasonal trends.
@@ -25,8 +29,6 @@ I love turning raw data into meaningful insights using statistical analysis and 
 - 🌾 **Rice Grain Image Classification**  
   CNN model to classify rice varieties from images, deployed into a mobile app using Flutter + TFLite.
 
-- 📉 **Customer Churn Analysis**  
-  Interactive dashboards and classification model to identify potential customer churn.
 
 ---
 
