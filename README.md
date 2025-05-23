@@ -42,7 +42,7 @@ I love turning raw data into meaningful insights using statistical analysis and 
 ## 📬 Contact & Socials
 
 - 💼 LinkedIn: [linkedin.com/in/rama-dona-ariyatma](www.linkedin.com/in/rama-dona-ariyatma-690141277)
-  📁 Portfolio: [ramaDNA.dev]([https://adityapratama.dev](https://ramadna.github.io/rma-portfolio.github.io/))
+- 📁 Portfolio: [ramaDNA.dev](https://ramadna.github.io/rma-portfolio.github.io/)
 
 ---
 
