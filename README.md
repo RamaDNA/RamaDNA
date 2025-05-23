@@ -1,4 +1,4 @@
-## Hi, My Name Rama Dona Ariyatma 👋
+## Hi 👋 , I'm Rama Dona Ariyatma
 
 <!--
 **RamaDNA/RamaDNA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
