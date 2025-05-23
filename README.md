@@ -48,11 +48,8 @@ My name is Rama Dona Ariyatma I'm a Data Scientist and Data Analyst passionate a
 - 📉 **ChatBot RamaDNA**  
   Using LLM DeepSeek for detection my personal information about chatbot and also can answer like deepseek dynamic.
 
-- 🛍️ **E-commerce Sales Forecasting**  
-  Regression models to predict monthly revenue based on customer behavior and seasonal trends.
-
 - 🌾 **Rice Grain Image Classification**  
-  CNN model to classify rice varieties from images, deployed into a mobile app using Flutter + TFLite.
+  CNN model to classify rice varieties from images, deployed using Streamlit.
 
 
 ---
