@@ -37,7 +37,7 @@ My name is Rama Dona Ariyatma I'm a Data Scientist and Data Analyst passionate a
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RamaDNA&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamaDNA&layout=compact&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamDNA&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamaDNA&layout=compact" />
 </p>
 
 ---
