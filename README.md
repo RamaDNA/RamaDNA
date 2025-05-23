@@ -42,7 +42,7 @@ My name is Rama Dona Ariyatma I'm a Data Scientist and Data Analyst passionate a
 [![NLTK](https://img.shields.io/badge/NLTK-3C9DD0?style=for-the-badge&logo=nltk&logoColor=white)](https://www.nltk.org/)
 
 <!-- Deployment -->
-[![NLTK](https://img.shields.io/badge/Streamlit?style=for-the-badge&logo=streamlit&logoColor=white)](https://www.streamlit.io/)
+[![Streamlit](https://img.shields.io/badge/Streamlit?style=for-the-badge&logo=streamlit&logoColor=white)](https://www.streamlit.io/)
 
 ---
 
