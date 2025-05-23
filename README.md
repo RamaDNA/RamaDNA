@@ -1,6 +1,6 @@
 # 👋 Hi there, Welcome to my Github
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Scientist+%7C+Data+Analyst+%7C+Machine+Learning+Enthusiast&center=true&width=500&height=45" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Scientist+%7C+Data+Analyst+%7C+Machine+Learning+Enthusiast&center=true&width=700&height=45" />
 
 My name is Rama Dona Ariyatma I'm a Data Scientist and Data Analyst passionate about machine learning, data visualization, and predictive analytics.  
 I love turning raw data into meaningful insights using statistical analysis and machine learning models.
