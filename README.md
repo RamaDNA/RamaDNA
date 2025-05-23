@@ -65,6 +65,6 @@ My name is Rama Dona Ariyatma I'm a Data Scientist and Data Analyst passionate a
 
 ## 📬 Contact & Socials
 
-- 💼 LinkedIn: [linkedin.com/in/rama-dona-ariyatma](www.linkedin.com/in/rama-dona-ariyatma-690141277)
+- 💼 LinkedIn: [www.linkedin.com/in/rama-dona-ariyatma-690141277](www.linkedin.com/in/rama-dona-ariyatma-690141277)
 - 📁 Portfolio: [ramaDNA.dev](https://ramadna.github.io/rma-portfolio.github.io/)
 
