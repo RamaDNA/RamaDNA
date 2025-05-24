@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Scientist+%7C+Data+Analyst+%7C+Machine+Learning+Enthusiast&center=true&width=700&height=45" />
 
-My name is Rama Dona Ariyatma I'm a Data Scientist and Data Analyst passionate about machine learning, data visualization, and predictive analytics.I love turning raw data into meaningful insights using statistical analysis and machine learning models. And also I keep learning about data and model like LLM
+My name is Rama Dona Ariyatma I'm a Data Scientist and Data Analyst passionate about Data, data visualization, and predictive analytics.I love turning raw data into meaningful insights using statistical analysis and machine learning models. And also I keep learning about data and model like LLM. And also I love website dev too like make landing page with gsap or creating server site too because, sometimes create API my models
 
 ---
 
