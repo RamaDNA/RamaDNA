@@ -51,7 +51,7 @@ My name is Rama Dona Ariyatma I'm a Data Scientist and Data Analyst passionate a
   Using LLM DeepSeek for detection my personal information about chatbot and also can answer like deepseek dynamic.
 
 - 🌾 **Rice Grain Image Classification**  
-  CNN model to classify rice varieties from images, deployed using Streamlit.
+  Deep Learning model to classify rice varieties from images, deployed using Streamlit.
 
 ---
 
