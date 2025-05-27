@@ -1,4 +1,4 @@
-# 👋 Hi there, Welcome to my Github Information
+# 👋 Hi there, Welcome uwu
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Scientist+%7C+Data+Analyst+%7C+Machine+Learning+Enthusiast&center=true&width=750&height=45" />
 
