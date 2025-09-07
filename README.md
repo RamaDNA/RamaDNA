@@ -33,7 +33,6 @@ My name is Rama Dona Ariyatma I'm a Data Scientist and Data Analyst passionate a
 <!-- Machine Learning -->
 [![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 
 <!-- LLM/NLP -->
@@ -45,15 +44,6 @@ My name is Rama Dona Ariyatma I'm a Data Scientist and Data Analyst passionate a
 
 ---
 
-## 📌 Highlight Projects
-
-- 📉 **ChatBot RamaDNA**  
-  Using LLM DeepSeek for detection my personal information about chatbot and also can answer like deepseek dynamic.
-
-- 🌾 **Rice Grain Image Classification**  
-  Deep Learning model to classify rice varieties from images, deployed using Streamlit.
-
----
 
 ## 📈 GitHub Stats
 
