@@ -1,6 +1,6 @@
 # 👋 Hi there, Welcome uwu
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Scientist+%7C+Data+Analyst+%7C+Machine+Learning+Enthusiast&center=true&width=710&height=45" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer+%7C+Data+Scientist+%7C+Data+Analyst&center=true&width=710&height=45" />
 
 My name is Rama Dona Ariyatma I'm a Data Scientist and Data Analyst passionate about Data, data visualization, and predictive analytics.I love turning raw data into meaningful insights using statistical analysis and machine learning models. And also I keep learning about data and model like LLM. And also I love website dev too like make landing page with gsap or creating server site too because, sometimes create API my models
 
@@ -10,8 +10,9 @@ My name is Rama Dona Ariyatma I'm a Data Scientist and Data Analyst passionate a
 
 - 📊 Data Analysis: Python, SQL
 - 📈 Data Visualization: Matplotlib, Seaborn, Plotly, Tableau  
-- 🤖 Large Language Models (LLMs): GPT, BERT, IndoBERT ,DeepSeek
-- 🤖 Framework : Torch, TensorFlow , LangChain
+- 🤖 Large Language Models (LLMs): OpenAI ,Ollama ,DeepSeek ,Claude , AI Studio
+- 🤖 Framework : Torch, TensorFlow , LangChain , openclaw
+- 🤖 automation : n8n 
 - 🧹 Data Cleaning & Preprocessing  
 - 📦 Deployment: Streamlit, Flask, Google Colab
 - 🧾 Text Classification, Clustering & Sentiment Analysis 
