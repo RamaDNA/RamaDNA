@@ -41,16 +41,16 @@ My name is Rama Dona Ariyatma I'm a Data Scientist and Data Analyst passionate a
 [![Transformers](https://img.shields.io/badge/Transformers-005571?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/docs/transformers/index)
 [![NLTK](https://img.shields.io/badge/NLTK-3C9DD0?style=for-the-badge&logo=nltk&logoColor=white)](https://www.nltk.org/)
 
-<!-- Deployment -->
-
 ---
 
 
-## 📈 GitHub Stats
+## 🐍 Snake Eating My Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RamaDNA&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamaDNA&layout=compact&theme=radical" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RamaDNA/RamaDNA/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/RamaDNA/RamaDNA/output/github-contribution-grid-snake.svg" alt="contribution snake" />
+  </picture>
 </p>
 
 ---
